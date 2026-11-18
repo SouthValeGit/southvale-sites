@@ -1,47 +1,60 @@
 {
-  "builds": {
-    "verified-practice-20261112b": {
-      "build_id": "verified-practice-20261112b",
-      "url": "https://southvalegit.github.io/southvale-sites/preview/southvale-practice-landscaping/",
-      "host": "github",
-      "project": "",
-      "mode": "sample",
-      "slug": "southvale-practice-landscaping",
-      "package": "unknown",
-      "pages": [
-        "index.html"
-      ],
-      "needs_human": [],
-      "at": "2026-11-16T17:37:28.779883+00:00"
-    },
-    "20261113-021018-L010": {
-      "build_id": "20261113-021018-L010",
-      "url": "https://southvalegit.github.io/southvale-sites/preview/sunrise-lawn-care-l010/",
-      "host": "github",
-      "project": "",
-      "mode": "sample",
-      "slug": "sunrise-lawn-care-l010",
-      "package": "unknown",
-      "pages": [
-        "index.html"
-      ],
-      "needs_human": [],
-      "at": "2026-11-16T17:37:28.845385+00:00"
-    },
-    "20261113-023934-L010": {
-      "build_id": "20261113-023934-L010",
-      "url": "https://southvalegit.github.io/southvale-sites/red-gold-landscaping-l010/",
-      "host": "github",
-      "project": "",
-      "mode": "product",
-      "slug": "red-gold-landscaping-l010",
-      "package": "unknown",
-      "pages": [
-        "index.html"
-      ],
-      "needs_human": [],
-      "at": "2026-11-16T17:37:28.909311+00:00"
-    }
+ "builds": {
+  "verified-practice-20261112b": {
+   "build_id": "verified-practice-20261112b",
+   "url": "https://southvalegit.github.io/southvale-sites/preview/southvale-practice-landscaping/",
+   "host": "github",
+   "project": "",
+   "mode": "sample",
+   "slug": "southvale-practice-landscaping",
+   "package": "unknown",
+   "pages": [
+    "index.html"
+   ],
+   "needs_human": [],
+   "at": "2026-11-16T17:37:28.779883+00:00"
   },
-  "projects": {}
+  "20261113-021018-L010": {
+   "build_id": "20261113-021018-L010",
+   "url": "https://southvalegit.github.io/southvale-sites/preview/sunrise-lawn-care-l010/",
+   "host": "github",
+   "project": "",
+   "mode": "sample",
+   "slug": "sunrise-lawn-care-l010",
+   "package": "unknown",
+   "pages": [
+    "index.html"
+   ],
+   "needs_human": [],
+   "at": "2026-11-16T17:37:28.845385+00:00"
+  },
+  "20261113-023934-L010": {
+   "build_id": "20261113-023934-L010",
+   "url": "https://southvalegit.github.io/southvale-sites/red-gold-landscaping-l010/",
+   "host": "github",
+   "project": "",
+   "mode": "product",
+   "slug": "red-gold-landscaping-l010",
+   "package": "unknown",
+   "pages": [
+    "index.html"
+   ],
+   "needs_human": [],
+   "at": "2026-11-16T17:37:28.909311+00:00"
+  },
+  "hosting-index-20261118-SVTEST": {
+   "host": "cloudflare",
+   "url": "https://southvale-preview.pages.dev/southvale-hosting-smoke-test/",
+   "project": "southvale-preview",
+   "build_id": "hosting-index-20261118-SVTEST",
+   "mode": "sample",
+   "lead": "svtest",
+   "slug": "southvale-hosting-smoke-test",
+   "at": "2026-11-18T03:08:37Z",
+   "package": "launch",
+   "pages": [],
+   "needs_human": []
+  }
+ },
+ "projects": {}
 }
