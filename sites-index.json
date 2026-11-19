@@ -80,7 +80,27 @@
    "package": "launch",
    "pages": [],
    "needs_human": []
+  },
+  "20261119-042836-L069": {
+   "host": "cloudflare",
+   "url": "https://olive-table-restaurant.pages.dev/",
+   "project": "olive-table-restaurant",
+   "build_id": "20261119-042836-L069",
+   "mode": "product",
+   "lead": "l069",
+   "slug": "olive-table-restaurant-l069",
+   "at": "2026-11-19T04:30:07Z",
+   "package": "launch",
+   "pages": [],
+   "needs_human": []
   }
  },
- "projects": {}
+ "projects": {
+  "olive-table-restaurant": {
+   "lead": "l069",
+   "slug": "olive-table-restaurant-l069",
+   "url": "https://olive-table-restaurant.pages.dev/",
+   "at": "2026-11-19T04:30:07Z"
+  }
+ }
 }
